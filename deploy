@@ -1,7 +1,7 @@
 -#!/bin/sh      
 ssh dabsp@10.10.21.217 <<EOF        
  cd /home/dabsp/mehedi/jenkins  
- git pull
+ git clone https://github.com/Talismanic/hello_world.git
  php hello.php
  exit       
 EOF
