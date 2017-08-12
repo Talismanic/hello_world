@@ -1,6 +1,6 @@
 -#!/bin/sh      
-ssh userName@development-server-ip <<EOF        
- cd /your-project-path  
+ssh dabsp@10.10.21.218 <<EOF        
+ cd /home/dabsp/mehedi  
  git pull       
  php hello.php
  exit       
