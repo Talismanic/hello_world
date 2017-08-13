@@ -3,5 +3,6 @@
     <testsuites>
         <testsuite name="Calculator">
             <directory>.</directory>
-        </testsuites>
+        </testsuite>
+    </testsuites>
 </phpunit>
