@@ -1,7 +1,8 @@
 -#!/bin/sh      
 ssh dabsp@10.10.21.217 <<EOF        
- cd /tmp/mehedi
+ cd /tmp/mehedi/hello_world
  git pull
- php hello.php
+ cat hello.php
+ 
  exit       
 EOF
