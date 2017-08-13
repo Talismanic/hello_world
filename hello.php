@@ -1,3 +1,4 @@
 <?php
-echo "Good Night.";
+echo "Good Morning";
+
 ?>
