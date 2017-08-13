@@ -1,4 +1,4 @@
 <?php
-echo "Good Morning";
+echo "Good Morning"."\n";
 echo "How are you?";
 ?>
