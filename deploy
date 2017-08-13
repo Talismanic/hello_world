@@ -3,7 +3,7 @@ ssh dabsp@10.10.21.217 <<EOF
  cd /tmp/mehedi/hello_world
  git pull
  php hello.php
- php CalculatorTest.php
+ phpunit CalculatorTest.php
  
  exit       
 EOF
